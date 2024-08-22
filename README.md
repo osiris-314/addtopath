@@ -1,6 +1,8 @@
 # Adds a file to /usr/local/bin for easy access
 
-usage: addtopath -f file_name -c new_command
+```
+python addtopath.py -f <file_name> -c <new_command_name>
+```
 
 ![addtopath](https://github.com/user-attachments/assets/a9a70a86-0ce3-4518-b422-9c39531ba84a)
 
